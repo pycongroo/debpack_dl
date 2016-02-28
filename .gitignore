@@ -61,5 +61,6 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
-# Persoonalizado
-debs/*
+# Personalizado
+debs/*.txt
+debs/*/
